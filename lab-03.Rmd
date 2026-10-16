@@ -1,10 +1,14 @@
 ---
 title: "Lab 03 – Critical-Responsible Use of GenAI for Data Science"
 <<<<<<< HEAD
+<<<<<<< HEAD
 author: "Team Name: User1, User2, Sam, User4"
 =======
 author: "Team Name: Ruaraidh, User2, User3, Sam Lawrie"
 >>>>>>> d0b027a4f05ad44b6ff2bb93e3bf56d0f09c65e6
+=======
+author: "Team Name: Ruaraidh, User2, User3, hafkjsdhfjk"
+>>>>>>> b4a7019670b7bd611f71df6f712427d91dffda1f
 date: "`r Sys.Date()`"
 output: html_document
 ---
