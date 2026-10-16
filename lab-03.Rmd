@@ -7,7 +7,7 @@ author: "Team Name: User1, User2, Sam, User4"
 =======
 author: "Team Name: Ruaraidh, User2, User3, Sam Lawrie"
 =======
-author: "Team Name: User1, Omar, User3, User4"
+author: "Team Name: User1, Omar, User3, SAm Lawrie"
 =======
 author: "Team Name: Ruaraidh, User2, User3, User4"
 >>>>>>> 1d227eb589109087d5ddd285dc8dbe3d3e58639b
