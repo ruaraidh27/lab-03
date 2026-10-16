@@ -3,8 +3,16 @@ title: "Lab 03 – Critical-Responsible Use of GenAI for Data Science"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 author: "Team Name: Ruaraidh, Omar, Sam"
 
+=======
+<<<<<<< HEAD
+author: "Team Name: Ruaraidh, Omar, Sam"
+>>>>>>> b4a7019670b7bd611f71df6f712427d91dffda1f
+date: "`r Sys.Date()`"
+>>>>>>> 8d4b5ce5813ec3a40a99d599433335a10043d6bc
+>>>>>>> 4cabc9a64acea073a03a649bb725b99644832604
 output: html_document
 ---
 
